@@ -4,9 +4,6 @@ wonderful!!!
 66666666
 77777777
 88888888
-<<<<<<< HEAD
-aaaaaaaa
-=======
 aaaaaaaa
 99999999
->>>>>>> fenzhi1
+
